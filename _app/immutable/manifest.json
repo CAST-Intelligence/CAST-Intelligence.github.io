@@ -1,0 +1,138 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-260bbcce.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-0cc51cb0.js",
+      "_index-c2659362.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/frameworks.svelte",
+      "src/routes/index.svelte",
+      "src/routes/market-monitoring.svelte",
+      "src/routes/placeholder.svelte",
+      "src/routes/skills-landscape.svelte",
+      "src/routes/team-builder.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-9bbf6d7e.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-0cc51cb0.js",
+      "_Close-ae7e8fff.js",
+      "_index-c2659362.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-fae307d6.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-5e078ef3.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-0cc51cb0.js"
+    ]
+  },
+  "src/routes/frameworks.svelte": {
+    "file": "pages/frameworks.svelte-776dab28.js",
+    "src": "src/routes/frameworks.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-0cc51cb0.js",
+      "_Column-b84806c5.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-c16a1733.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-0cc51cb0.js",
+      "_Column-b84806c5.js",
+      "_Tile-912e472d.js"
+    ]
+  },
+  "src/routes/market-monitoring.svelte": {
+    "file": "pages/market-monitoring.svelte-273a9de8.js",
+    "src": "src/routes/market-monitoring.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-0cc51cb0.js",
+      "_Column-b84806c5.js"
+    ]
+  },
+  "src/routes/placeholder.svelte": {
+    "file": "pages/placeholder.svelte-4b7a503e.js",
+    "src": "src/routes/placeholder.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-0cc51cb0.js",
+      "_Column-b84806c5.js"
+    ]
+  },
+  "src/routes/skills-landscape.svelte": {
+    "file": "pages/skills-landscape.svelte-bf9b0724.js",
+    "src": "src/routes/skills-landscape.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-0cc51cb0.js",
+      "_Column-b84806c5.js"
+    ]
+  },
+  "src/routes/team-builder.svelte": {
+    "file": "pages/team-builder.svelte-570c6b39.js",
+    "src": "src/routes/team-builder.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-0cc51cb0.js",
+      "_Column-b84806c5.js",
+      "_index-c2659362.js",
+      "_Close-ae7e8fff.js",
+      "_Tile-912e472d.js"
+    ],
+    "css": [
+      "assets/pages/team-builder.svelte-9f9bd947.css"
+    ]
+  },
+  "_index-0cc51cb0.js": {
+    "file": "chunks/index-0cc51cb0.js"
+  },
+  "_index-c2659362.js": {
+    "file": "chunks/index-c2659362.js",
+    "imports": [
+      "_index-0cc51cb0.js"
+    ]
+  },
+  "_Close-ae7e8fff.js": {
+    "file": "chunks/Close-ae7e8fff.js",
+    "imports": [
+      "_index-0cc51cb0.js"
+    ]
+  },
+  "_Column-b84806c5.js": {
+    "file": "chunks/Column-b84806c5.js",
+    "imports": [
+      "_index-0cc51cb0.js"
+    ]
+  },
+  "_Tile-912e472d.js": {
+    "file": "chunks/Tile-912e472d.js",
+    "imports": [
+      "_index-0cc51cb0.js"
+    ]
+  }
+}
